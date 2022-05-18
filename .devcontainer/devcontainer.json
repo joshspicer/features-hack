@@ -8,7 +8,7 @@
 			"version": "20.10",
 			"moby": true
 		},
-		"go": {
+		"golang": {
 			"version": "1.18"
 		}
 	}
